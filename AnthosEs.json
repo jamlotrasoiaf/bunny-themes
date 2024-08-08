@@ -30,13 +30,16 @@
       "#9a8687"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#f0b2b2"
+      "transparent"
     ],
     "CHAT_BACKGROUND": [
       "transparent"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "transparent"
+    ],
+    "HOME_BACKGROUND": [
+      "946a6b"
     ]
   },
   "background": {
