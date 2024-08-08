@@ -23,12 +23,6 @@
     "BACKGROUND_ACCENT": [
       "#946a6b"
     ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#593f3f"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#593f3f"
-    ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "transparent"
     ],
@@ -37,6 +31,12 @@
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "transparent"
+    ],
+    "EMBED_BACKGROUND": [
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#593f3f"
     ],
     "HOME_BACKGROUND": [
       "#593f3f"
