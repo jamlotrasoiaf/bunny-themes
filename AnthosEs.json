@@ -1,6 +1,6 @@
 {
-  "name": "AnthosPensee",
-  "description": "Anthos Pensee theme by brain worms",
+  "name": "AnthosEs",
+  "description": "Anthos es theme by brain worms",
   "authors": [
     {
     "name": "brain worms",
@@ -8,205 +8,34 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": [
-      "transparent"
+    "BACKGROUND_PRIMARY": [
+      "#f6b1b1"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#f6b1b1"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#f6b1b1"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#f6b1b1"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#f6b1b1"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#f7bbb9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#f7bbb9"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#81483f"
     ],
     "CHAT_BACKGROUND": [
       "transparent"
     ],
-    "BACKGROUND_ACCENT": [
-      "#593c50"
-    ],
-    "BACKGROUND_FLOATING": [
-      "transparent"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "#7f658e"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#67487a"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "transparent"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "transparent"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "transparent"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "transparent"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "transparent"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "transparent"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#9c9c9c"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "transparent"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "transparent"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "transparent"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "transparent"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "transparent"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "transparent"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#664d74"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "transparent"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "transparent"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "transparent"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "transparent"
-    ],
-    "BG_BASE_PRIMARY": [
-      "transparent"
-    ],
-    "BG_BACKDROP": [
-      "transparent"
-    ],
-    "BG_BASE_SECONDARY": [
-      "transparent"
-    ],
-    "BG_BASE_TERTIARY": [
-      "transparent"
-    ],
-    "HOME_BACKGROUND": [
-      "transparent"
-    ],
-    "BORDER_FAINT": [
-      "#6f5e7a"
-    ],
-    "BORDER_STRONG": [
-      "#7C6C6C"
-    ],
-    "BORDER_SUBTLE": [
-      "#7C6C6C"
-    ],
-    "CARD_SECONDARY_BG": [
-      "transparent"
-    ],
-    "CARD_PRIMARY_BG": [
-      "transparent"
-    ],
-    "CHANNEL_ICON": [
-      "#b99fc8"
-    ],
-    "EMBED_BACKGROUND": [
-      "transparent"
-    ],
-    "HEADER_PRIMARY": [
-      "#b36dfb"
-    ],
-    "HEADER_SECONDARY": [
-      "#FFEFFF"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#DEDCDE"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#837198"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#ddc6f9"
-    ],
-    "MENTION_BACKGROUND": [
-      "#ff63635e"
-    ],
-    "MENTION_FOREGROUND": [
-      "#e5d2fc"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "transparent"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "transparent"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "transparent"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#39343F"
-    ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#A39595"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#ecddfc"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "transparent"
-    ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "transparent"
-    ],
-    "STATUS_DANGER": [
-      "#f44444"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#f44444"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
-    ],
-    "POLLS_NORMAL_FILL_HOVER": [
-      "transparent"
-    ],
-    "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "transparent"
-    ],
-    "POLLS_VICTOR_FILL": [
-      "#cc9ffe"
-    ],
-    "TEXT_LINK": [
-      "#dcbffc"
-    ],
-    "TEXT_MUTED": [
-      "#ab93c3"
-    ],
-    "TEXT_NORMAL": [
-      "#e0cbdd"
-    ],
-    "TEXT_PRIMARY": [
-      "#e0cbdd"
-    ],
-    "TEXT_SECONDARY": [
-      "#e0cbdd"
-    ],
-    "BG_MOD_FAINT": [
-      "#202020"
-    ],
-    "KEYBOARD": [
       "transparent"
     ]
   },
