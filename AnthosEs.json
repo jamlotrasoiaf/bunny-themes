@@ -37,6 +37,15 @@
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "transparent"
+    ],
+    "BG_BACKDROP": [
+      "#9a8687"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#946a6b"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#9a8687"
     ]
   },
   "background": {
