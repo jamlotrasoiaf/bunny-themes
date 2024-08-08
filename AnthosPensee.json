@@ -9,16 +9,16 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#000000"
+      "transparent"
     ],
     "CHAT_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_ACCENT": [
       "#593c50"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MENTIONED": [
       "#7f658e"
@@ -36,70 +36,70 @@
       "transparent"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#000000"
+      "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#000000"
+      "transparent"
     ],
     "CHANNELS_DEFAULT": [
       "#9c9c9c"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#664d74"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000"
+      "transparent"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000"
+      "transparent"
     ],
     "BG_BASE_PRIMARY": [
-      "#000000"
+      "transparent"
     ],
     "BG_BACKDROP": [
-      "#000000"
+      "transparent"
     ],
     "BG_BASE_SECONDARY": [
-      "#000000"
+      "transparent"
     ],
     "BG_BASE_TERTIARY": [
-      "#000000"
+      "transparent"
     ],
     "HOME_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "BORDER_FAINT": [
       "#6f5e7a"
@@ -111,16 +111,16 @@
       "#7C6C6C"
     ],
     "CARD_SECONDARY_BG": [
-      "#000000"
+      "transparent"
     ],
     "CARD_PRIMARY_BG": [
-      "#000000"
+      "transparent"
     ],
     "CHANNEL_ICON": [
       "#b99fc8"
     ],
     "EMBED_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "HEADER_PRIMARY": [
       "#b36dfb"
@@ -147,13 +147,13 @@
       "#e5d2fc"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#39343F"
@@ -165,10 +165,10 @@
       "#ecddfc"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "STATUS_DANGER": [
       "#f44444"
@@ -180,10 +180,10 @@
       "#FFFFFF"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#000000"
+      "transparent"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#000000"
+      "transparent"
     ],
     "POLLS_VICTOR_FILL": [
       "#cc9ffe"
@@ -207,7 +207,7 @@
       "#202020"
     ],
     "KEYBOARD": [
-      "#000000"
+      "transparent"
     ]
   },
   "rawColors": {
