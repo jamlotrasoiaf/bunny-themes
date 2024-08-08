@@ -9,28 +9,28 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#f6b1b1"
+      "#946a6b"
     ],
     "BACKGROUND_SECONDARY": [
-      "#f6b1b1"
+      "#946a6b"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#f6b1b1"
+      "#946a6b"
     ],
     "BACKGROUND_TERTIARY": [
-      "#f6b1b1"
+      "#946a6b"
     ],
     "BACKGROUND_ACCENT": [
-      "#f6b1b1"
+      "#946a6b"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#f7bbb9"
+      "#9a8687"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#f7bbb9"
+      "#9a8687"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#81483f"
+      "#f0b2b2"
     ],
     "CHAT_BACKGROUND": [
       "transparent"
@@ -42,7 +42,7 @@
   "background": {
     "blur": 0.4,
     "url": "https://raw.githubusercontent.com/jamlotrasoiaf/bunny-themes/main/00000584.jpg",
-    "alpha": 0.9
+    "alpha": 0.6
   },
   "spec": 2
 }
