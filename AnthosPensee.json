@@ -1,0 +1,20 @@
+{
+  "name": "AnthosPensee";
+  "description": "Anthos Pensee theme by brain worms";
+  "authors": {
+    "name": "brain worms";
+    "id": "1204829902701072521";
+  }[];
+  "spec": 2;
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"];
+  };
+  "rawColors": {
+    "PRIMARY_500": "#9E8376";
+  };
+  background: {
+    blur: 0;
+    url: https://github.com/jamlotrasoiaf/bunny-themes/raw/main/00000584.jpg;
+    alpha: 0.4;
+  };
+}
