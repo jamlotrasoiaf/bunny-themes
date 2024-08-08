@@ -13,9 +13,9 @@
   "rawColors": {
     "PRIMARY_500": "#9E8376"
   },
-  background: {
-    blur: 0,
-    url: https://github.com/jamlotrasoiaf/bunny-themes/raw/main/00000584.jpg,
-    alpha: 0.4
+  "background": {
+    "blur": 0,
+    "url": "https://github.com/jamlotrasoiaf/bunny-themes/raw/main/00000584.jpg",
+    "alpha": 0.4
   },
 }
