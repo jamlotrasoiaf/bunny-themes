@@ -35,9 +35,6 @@
     "EMBED_BACKGROUND": [
       "transparent"
     ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#593f3f"
-    ],
     "HOME_BACKGROUND": [
       "#593f3f"
     ],
@@ -45,6 +42,12 @@
       "#593f3f"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
+      "#593f3f"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#593f3f"
+    ],
+    "CARD_SECONDARY_BG": [
       "#593f3f"
     ]
   },
