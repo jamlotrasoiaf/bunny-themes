@@ -7,10 +7,10 @@
     "id": "1204829902701072521"
     }
   ],
-  "Background": {
-    "blur": 0,
+  "background": {
+    "blur": 0.1,
     "url": "https://raw.githubusercontent.com/jamlotrasoiaf/bunny-themes/main/00000584.jpg",
-    "alpha": 0.2
+    "alpha": 1
   },
   "spec": 2
 }
