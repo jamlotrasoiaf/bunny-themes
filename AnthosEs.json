@@ -173,9 +173,9 @@
     "WHITE_630": "#776767"
   },
   "background": {
-    "blur": 0.2,
+    "blur": 0.4,
     "url": "https://raw.githubusercontent.com/jamlotrasoiaf/bunny-themes/main/00000584.jpg",
-    "alpha": 0.8
+    "alpha": 0.6
   },
   "spec": 2
 }
