@@ -35,7 +35,7 @@
     "EMBED_BACKGROUND": [
       "transparent"
     ],
-    "CHANNELTEXTAREA_BACKGROUND": [
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#593f3f"
     ],
     "HOME_BACKGROUND": [
