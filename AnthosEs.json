@@ -53,5 +53,10 @@
     "url": "https://raw.githubusercontent.com/jamlotrasoiaf/bunny-themes/main/00000584.jpg",
     "alpha": 0.6
   },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#d98080"
+  },
   "spec": 2
 }
