@@ -40,6 +40,9 @@
     ],
     "HOME_BACKGROUND": [
       "#946a6b"
+    ],
+    "PANEL_BG": [
+      "#946a6b"
     ]
   },
   "background": {
