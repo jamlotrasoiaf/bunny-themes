@@ -1,10 +1,11 @@
 {
-  "name": "AnthosPensee",
+  "name": "AnthosPensee"
   "description": "Anthos Pensee theme by brain worms",
-  "authors": [{
+  "authors": [
+    {
     "name": "brain worms",
     "id": "1204829902701072521"
-  }
+    },
   ],
   "spec": 2,
   "semanticColors": {
