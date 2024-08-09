@@ -35,9 +35,6 @@
     "BACKGROUND_MOBILE_PRIMARY": [
       "#946a6b"
     ],
-    "BG_BASE_SECONDARY": [
-      "#946a6b"
-    ],
     "CHAT_BACKGROUND": [
       "transparent"
     ],
@@ -87,7 +84,8 @@
   "rawColors": {
     "PLUM_6": "#fff0f5",
     "PLUM_10": "#e5e4e2",
-    "PLUM_11": "#ffffff"
+    "PLUM_11": "#ffffff",
+    "PLUM_20": "#946a6b"
   },
   "background": {
     "blur": 0.4,
