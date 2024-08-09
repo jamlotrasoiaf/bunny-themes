@@ -79,7 +79,8 @@
     ]
   },
   "rawColors": {
-    "PLUM_10": "#f2f3f4"
+    "PLUM_10": "#f2f3f4",
+    "PLUM_11": "#fff0f5"
   },
   "background": {
     "blur": 0.4,
