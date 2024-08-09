@@ -57,10 +57,10 @@
       "transparent"
     ],
     "HOME_BACKGROUND": [
-      "transparent"
+      "#6e4c4c1a"
     ],
     "PANEL_BG": [
-      "#6e4c4c"
+      "#6e4c4c00"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#593f3f"
