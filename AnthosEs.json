@@ -41,6 +41,9 @@
     "BACKGROUND_MOBILE_PRIMARY": [
       "#946a6b"
     ],
+    "BG_BACKDROP": [
+      "transparent"
+    ],
     "CHAT_BACKGROUND": [
       "transparent"
     ],
