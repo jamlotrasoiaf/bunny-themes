@@ -32,6 +32,12 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "#946a6b"
     ],
+    "BACKGROUND_FLOATING": [
+      "#593f3f"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#593f3f"
+    ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#946a6b"
     ],
