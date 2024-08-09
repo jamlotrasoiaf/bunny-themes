@@ -78,6 +78,9 @@
       "transparent"
     ]
   },
+  "rawColors": {
+    "PRIMARY_230": "#593f3f"
+  },
   "background": {
     "blur": 0.4,
     "url": "https://raw.githubusercontent.com/jamlotrasoiaf/bunny-themes/main/00000584.jpg",
