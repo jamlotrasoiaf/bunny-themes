@@ -58,10 +58,10 @@
     ],
     "CARD_SECONDARY_BG": [
       "#593f3f"
+    ],
+    "TEXT_PRIMARY": [
+      "#ffffff"
     ]
-  },
-  "rawColors": {
-    "BLACK_500": "#593f3f"
   },
   "background": {
     "blur": 0.4,
