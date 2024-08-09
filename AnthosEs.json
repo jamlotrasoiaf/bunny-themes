@@ -24,10 +24,10 @@
       "#946a6b"
     ],
     "BACKGROUND_FLOATING": [
-      "#946a6b"
+      "transparent"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#946a6b"
+      "transparent"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "transparent"
