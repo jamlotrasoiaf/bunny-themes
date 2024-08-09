@@ -70,6 +70,12 @@
     ],
     "TEXT_NORMAL": [
       "#f8eeec"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "transparent"
+    ],
+    "TOAST_BG": [
+      "transparent"
     ]
   },
   "background": {
