@@ -79,6 +79,9 @@
     ],
     "TOAST_BG": [
       "transparent"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#593f3f"
     ]
   },
   "rawColors": {
@@ -86,7 +89,9 @@
     "PLUM_10": "#e5e4e2",
     "PLUM_11": "#ffffff",
     "PLUM_20": "#946a6b",
-    "PLUM_18": "#6e4c4c"
+    "PLUM_18": "#6e4c4c",
+    "PLUM_16": "#593f3f",
+    "PLUM_24": "#593f3f"
   },
   "background": {
     "blur": 0.4,
