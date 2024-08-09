@@ -35,6 +35,9 @@
     "BACKGROUND_MOBILE_PRIMARY": [
       "#946a6b"
     ],
+    "BACKGROUND_MENTIONED": [
+      "#593f3f"
+    ],
     "CHAT_BACKGROUND": [
       "transparent"
     ],
@@ -91,7 +94,8 @@
     "PLUM_20": "#946a6b",
     "PLUM_18": "#6e4c4c",
     "PLUM_16": "#593f3f",
-    "PLUM_24": "#593f3f"
+    "PLUM_24": "#593f3f",
+    "BRAND_360": "#593f3f"
   },
   "background": {
     "blur": 0.4,
