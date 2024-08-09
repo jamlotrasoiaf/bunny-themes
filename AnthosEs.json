@@ -38,7 +38,7 @@
     "SPOILER_HIDDEN_BACKGROUND": [
       "transparent"
     ],
-    "SPOILER_SHOWN_BACKGROUND": [
+    "SPOILER_REVEALED_BACKGROUND": [
       "#946a6b"
     ],
     "EMBED_BACKGROUND": [
