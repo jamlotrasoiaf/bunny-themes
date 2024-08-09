@@ -60,10 +60,10 @@
       "#593f3f"
     ],
     "TEXT_PRIMARY": [
-      "#f2f3f4"
+      "#fff0f5"
     ],
     "TEXT_SECONDARY": [
-      "#f2f3f4"
+      "#fff0f5"
     ],
     "TEXT_LINK": [
       "#63c5da"
@@ -79,7 +79,7 @@
     ]
   },
   "rawColors": {
-    "PLUM_10": "#fff0f5"
+    "PLUM_10": "#f2f3f4"
   },
   "background": {
     "blur": 0.4,
