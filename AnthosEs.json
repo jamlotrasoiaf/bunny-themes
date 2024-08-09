@@ -23,16 +23,13 @@
     "BACKGROUND_ACCENT": [
       "#946a6b"
     ],
-    "BACKGROUND_FLOATING": [
-      "transparent"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "transparent"
-    ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#946a6b"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
+      "#946a6b"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
       "#946a6b"
     ],
     "CHAT_BACKGROUND": [
