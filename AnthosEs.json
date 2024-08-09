@@ -82,7 +82,8 @@
     "PLUM_6": "#fff0f5",
     "PLUM_10": "#e5e4e2",
     "PLUM_11": "#ffffff",
-    "PRIMARY_700": "#593f3f"
+    "PRIMARY_700": "#593f3f",
+    "RED_400": "#523a38"
   },
   "background": {
     "blur": 0.4,
