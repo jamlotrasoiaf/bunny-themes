@@ -57,7 +57,7 @@
       "transparent"
     ],
     "HOME_BACKGROUND": [
-      "#6e4c4c"
+      "transparent"
     ],
     "PANEL_BG": [
       "#6e4c4c"
@@ -93,7 +93,7 @@
       "#593f3f"
     ],
     "MENTION_BACKGROUND": [
-      "#6e4c4cb3"
+      "#6e4c4c"
     ],
     "MENTION_FOREGROUND": [
       "#946a6b"
