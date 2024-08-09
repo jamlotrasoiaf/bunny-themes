@@ -23,6 +23,12 @@
     "BACKGROUND_ACCENT": [
       "#946a6b"
     ],
+    "BACKGROUND_FLOATING": [
+      "#946a6b"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#946a6b"
+    ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "transparent"
     ],
@@ -31,6 +37,9 @@
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "transparent"
+    ],
+    "SPOILER_SHOWN_BACKGROUND": [
+      "#946a6b"
     ],
     "EMBED_BACKGROUND": [
       "transparent"
