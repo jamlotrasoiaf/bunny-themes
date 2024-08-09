@@ -35,7 +35,7 @@
     "BACKGROUND_MOBILE_PRIMARY": [
       "#946a6b"
     ],
-    "BACKGROUND_MENTIONED": [
+    "BACKGROUND_MENTIONED_HOVER": [
       "#593f3f"
     ],
     "CHAT_BACKGROUND": [
@@ -95,7 +95,7 @@
     "PLUM_18": "#6e4c4c",
     "PLUM_16": "#593f3f",
     "PLUM_24": "#593f3f",
-    "BRAND_360": "#593f3f"
+    "BRAND_500": "#593f3f"
   },
   "background": {
     "blur": 0.4,
